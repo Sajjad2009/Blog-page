@@ -1,0 +1,59 @@
+.section-title {
+    margin: auto;
+    width: 1280px;
+    height: 1089px;
+    
+}
+h1{
+    font-size: 48px;
+    color: #ffff;
+    text-align: center;
+}
+.header-part {
+    background-color: #326155;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+   
+
+}
+.blogging-part {
+    background-color: #D7F2EC;
+    width: 583px;
+    height: 604px;
+    margin: auto;
+    padding: 35px;
+    margin-top: 40px;
+}
+h2 {
+    font-size: 32px;
+    color: #326155;
+    font-weight: bold;
+}
+.blogging-part img {
+    width: 100%;
+}
+.blogging-part p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+    margin-bottom:30px ;
+    
+}
+.blogging-part .btn {
+    background-color: #326155;
+    width: 530px;   
+    color: #f8fcfb;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px;
+   }
+   h4 {
+       background-color:#326155; 
+       text-align: center;
+       color: #ffff;
+       width: 100%;
+       padding: 20px;
+   }
